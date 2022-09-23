@@ -1,0 +1,33 @@
+
+/* for hole page*/
+*{margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family:sans-serif;
+}
+
+html,body{
+    /*here we give our page background-color and padding*/
+    background-color:rgb(96, 106, 180);
+    padding:10px;
+}
+/* r1 is class of heading*/
+.r1{ 
+    text-align:center;/* for aling text to center*/
+    margin-top:20px;
+    margin-bottom: 40px;
+    color:rgba(156, 29, 191, 0.832);
+   
+
+}
+
+
+
+
+/* here we give some styling to img*/
+img{
+    max-width: 100%;
+    height:auto;
+    vertical-align:middle;
+    display:inline-block;
+}
